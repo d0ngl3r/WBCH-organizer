@@ -7,4 +7,4 @@ The WBCH-organizer is a tool designed to help you organize and manage your WBCH 
 * Interactive Renaming: Optionally rename episodes to their original names.
 
 ## Usage
-Download the .exe from the latest release or [clone](https://github.com/vanishedbydefa/WBCH-organizer.git) the project and run in manually.
+Download the .exe from the [latest](https://github.com/vanishedbydefa/WBCH-organizer/releases/latest) release or [clone](https://github.com/vanishedbydefa/WBCH-organizer.git) the project and run in manually.
