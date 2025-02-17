@@ -1,0 +1,1 @@
+pyinstaller --noconfirm --onefile --console --icon "Q:/edit/icon.png" --name "WBCH-organizer" --clean  "Q:/WBCH-organizer/main.py"
